@@ -1,0 +1,4 @@
+C:\Users\leon-\Desktop\Лабы сделанные\7 семестр\Курсовая работа ООП\TwentyOne\Release\TwentyOne.exe
+C:\Users\valtes\Desktop\TwentyOne\Release\TwentyOne.exe
+C:\Users\leon-\Desktop\Лабы сделанные\7 семестр\Курсовая работа ООП\TwentyOnev3 (Save 23.11.20)\Release\TwentyOne.exe
+C:\Users\leon-\Desktop\Лабы сделанные\7 семестр\Курсовая работа ООП\TwentyOnev6 (Save 9.12.20)\Release\TwentyOne.exe

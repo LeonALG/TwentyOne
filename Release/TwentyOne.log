@@ -1,0 +1,15 @@
+﻿  Card.cpp
+C:\Users\leon-\Desktop\Лабы сделанные\7 семестр\Курсовая работа ООП\TwentyOnev6 (Save 9.12.20)\Card.cpp(8,39): warning C4129: : неизвестная escape-последовательность
+C:\Users\leon-\Desktop\Лабы сделанные\7 семестр\Курсовая работа ООП\TwentyOnev6 (Save 9.12.20)\Card.cpp(8,62): warning C4129: : неизвестная escape-последовательность
+C:\Users\leon-\Desktop\Лабы сделанные\7 семестр\Курсовая работа ООП\TwentyOnev6 (Save 9.12.20)\Card.cpp(8,85): warning C4129: : неизвестная escape-последовательность
+C:\Users\leon-\Desktop\Лабы сделанные\7 семестр\Курсовая работа ООП\TwentyOnev6 (Save 9.12.20)\Card.cpp(8,108): warning C4129: : неизвестная escape-последовательность
+  CardDeck.cpp
+  Point.cpp
+  GameTwentyOne.cpp
+  main.cpp
+  Создание кода
+  344 of 356 functions (96.6%) were compiled, the rest were copied from previous compilation.
+    27 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  TwentyOne.vcxproj -> C:\Users\leon-\Desktop\Лабы сделанные\7 семестр\Курсовая работа ООП\TwentyOnev6 (Save 9.12.20)\Release\TwentyOne.exe
